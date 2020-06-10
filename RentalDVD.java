@@ -7,9 +7,8 @@
 public class RentalDVD // Class: RentalDVD 가격 계산 소프트웨어
 {
     /**
-     * 나이(0부터 150사이의 정수값), 가격(음수가 아닌 정수값), 
-     * calcRentalFee: 대여 시작일로부터 경과된 시간(음수가 아닌 정수값)에 따라 할인된 가격을 출력해주는 메소드
-     * Parameter: 나이, 가격, 대여 시작일로부터 경과된 시간
+     * calcRentalFee: 나이, 가격, 대여 시작일로부터 경과된 시간에 따라 할인된 가격을 출력해주는 메소드
+     * Parameter: 나이(0부터 150사이의 정수값), 가격(음수가 아닌 정수값), 대여 시작일로부터 경과된 시간(음수가 아닌 정수값)
      * return: 할인 적용 후  가격
      */
     public static int calcRentalFee(int age, int fee, int period) {
