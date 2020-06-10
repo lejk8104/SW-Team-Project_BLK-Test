@@ -14,6 +14,8 @@ public class RentalDVD
      */
     public static int calcRentalFee(int age, int fee, int period) {
         boolean isOldWork = false;
+        if ((age > 150) || (age <0 ) || (fee <0) || (period <0))
+            fee = -1;
         if (6 <= period)
             isOldWork = true;
         if (isOldWork)

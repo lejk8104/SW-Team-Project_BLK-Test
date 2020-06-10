@@ -1,6 +1,7 @@
 #BlueJ class context
 comment0.target=RentalDVD
-comment0.text=\r\n\ \uC5EC\uAE30\uC5D0\ Rental_DVD_Discount_rate_calculation\ \uD074\uB798\uC2A4\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC2ED\uC2DC\uC624.\r\n\ \r\n\ @author\ (\uC791\uC131\uC790\ \uC774\uB984)\ \r\n\ @version\ (\uBC84\uC804\uBC88\uD638\uB098\ \uB0A0\uC9DC)\r\n
+comment0.text=\r\n\ \r\n\ @author\ (2018315056\ \uC6B0\uBA54\uBAA8\uD1A0\ \uC138\uC774\uC57C,\ 2015225129\ \uC774\uC7AC\uADFC,\ 2018315021\ \uBC29\uB300\uD638)\ \r\n\ @version\ (2020/06/10)\r\n
 comment1.params=age\ fee\ period
 comment1.target=int\ calcRentalFee(int,\ int,\ int)
+comment1.text=\r\n\ \uB098\uC774(0\uBD80\uD130\ 150\uC0AC\uC774\uC758\ \uC815\uC218\uAC12),\ \uAC00\uACA9(\uC74C\uC218\uAC00\ \uC544\uB2CC\ \uC815\uC218\uAC12),\ \r\n\ \uB300\uC5EC\ \uC2DC\uC791\uC77C\uB85C\uBD80\uD130\ \uACBD\uACFC\uB41C\ \uC2DC\uAC04(\uC74C\uC218\uAC00\ \uC544\uB2CC\ \uC815\uC218\uAC12)\uC5D0\ \uB530\uB77C\ \uD560\uC778\uB41C\ \uAC00\uACA9\uC744\ \uCD9C\uB825\uD574\uC8FC\uB294\ \uBA54\uC18C\uB4DC\r\n\ Parameter\:\ \uB098\uC774,\ \uAC00\uACA9,\ \uB300\uC5EC\ \uC2DC\uC791\uC77C\uB85C\uBD80\uD130\ \uACBD\uACFC\uB41C\ \uC2DC\uAC04\r\n\ return\:\ \uD560\uC778\ \uC801\uC6A9\ \uD6C4\ \ \uAC00\uACA9\r\n
 numComments=2

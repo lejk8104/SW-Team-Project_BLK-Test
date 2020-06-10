@@ -1,8 +1,8 @@
 #BlueJ package file
 editor.fx.0.height=737
 editor.fx.0.width=814
-editor.fx.0.x=360
-editor.fx.0.y=31
+editor.fx.0.x=31
+editor.fx.0.y=24
 objectbench.height=92
 objectbench.width=761
 package.divider.horizontal=0.6
@@ -24,9 +24,9 @@ readme.width=47
 readme.x=10
 readme.y=10
 target1.height=50
-target1.name=Rental_DVD_Discount_rate_calculation
+target1.name=RentalDVD
 target1.showInterface=false
 target1.type=ClassTarget
-target1.width=260
-target1.x=10
-target1.y=80
+target1.width=90
+target1.x=70
+target1.y=10
